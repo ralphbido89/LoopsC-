@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\orderbook.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Log.h" />
